@@ -9,7 +9,7 @@ Before running the script, please ensure you have the following tools installed:
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
-run ./apply-all.sh
+## run ./apply-all.sh
 
 ## Deployment Steps
 
